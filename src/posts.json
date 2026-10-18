@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "title": "Getting Started with React & Modern Frontend Architecture",
+    "excerpt": "Learn how React components, state management, and props work together to create scalable web apps.",
+    "category": "React",
+    "author": "Mahima Chaudhari",
+    "date": "Oct 15, 2026",
+    "readTime": "5 min read",
+    "image": "https://images.unsplash.com/photo-1633356122544-f134324a6cee?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": 2,
+    "title": "Mastering Asynchronous JavaScript & Fetch API",
+    "excerpt": "A deep dive into Promises, Async/Await, and handling API requests cleanly in JavaScript.",
+    "category": "JavaScript",
+    "author": "Mahima Chaudhari",
+    "date": "Oct 12, 2026",
+    "readTime": "7 min read",
+    "image": "https://images.unsplash.com/photo-1579468118864-1b9ea3c0db4a?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": 3,
+    "title": "Building Responsive Interfaces with Utility CSS",
+    "excerpt": "Discover utility-first CSS strategies to streamline styling and create mobile-ready interfaces.",
+    "category": "CSS",
+    "author": "Mahima Chaudhari",
+    "date": "Oct 10, 2026",
+    "readTime": "4 min read",
+    "image": "https://images.unsplash.com/photo-1507238691740-187a5b1d37b8?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": 4,
+    "title": "Node.js & Express: Building Your First REST API",
+    "excerpt": "Learn how to structure backend routes, controllers, and middleware using Express.",
+    "category": "Node.js",
+    "author": "Mahima Chaudhari",
+    "date": "Oct 08, 2026",
+    "readTime": "8 min read",
+    "image": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=600&q=80"
+  }
+]
